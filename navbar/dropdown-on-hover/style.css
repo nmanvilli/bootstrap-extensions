@@ -1,0 +1,14 @@
+/* ------------------------------
+   Main navigation - custom "hover" behaviour
+ ------------------------------ */
+@media (min-width: 992px) {
+    .navbar .dropdown-menu {
+        margin-top: 0;
+    }
+    .navbar .hovershow > .nav-link {
+        color: #990000;
+    }
+    .navbar .dropdown-menu.hovershow {
+        display: block;
+    }
+}
