@@ -1,5 +1,5 @@
 // ------------------------------
-// Make Dropdown menu work on hover (custom.css also involved)
+// Make Dropdown menu work on hover (CSS also involved)
 // ------------------------------
 $siteNavDropdowns = $('.navbar .nav-item.dropdown');
 $siteNavDropdownMenus = $siteNavDropdowns.find('.dropdown-menu');
